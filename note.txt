@@ -1,0 +1,11 @@
+<div class="hero text-white py-24  font-lora">
+  <div class="hero-content text-center ">
+    <div class="">
+      <h1 class="md:text-5xl text-2xl font-black mb-20">Gallery <br><br> Shopping <br><br> Center</h1>
+      <span class="font-montserrat"><a href=""><i class="fa-solid fa-location-dot mr-2"></i></a>TOKYO,JAPAN</span>
+      <span class="font-montserrat px-20"><a href=""><i class="fa-solid fa-credit-card mr-2"></i></a>1 350 M 2</span>
+      <span class="font-montserrat"><a href=""><i class="fa-solid fa-crop-simple mr-2"></i></a>$ 24,5 M I O</span>
+     
+    </div>
+  </div>
+</div>
